@@ -19,5 +19,3 @@ Proceedings 32nd International Conference on Computer Applications Ind. Engineer
 
 (5). Reddy, V. Data analysis course, time series analysis and forecasting. DOI: https://http://www.trendwiseanalytics.com/train
 ing/Timeseries_Forecasting.pdf (2018).
-
-Link: https://drive.google.com/file/d/1mdTC6rQjc3xuCHgD5cCHSaYo2atyiXNC/view?usp=sharing here you can also see everything in more detail.
